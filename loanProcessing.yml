@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: loanProcessing
+  cloud:
+    config:
+      uri: http://localhost:8090

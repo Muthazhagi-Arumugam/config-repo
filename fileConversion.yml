@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: fileConversion
+  cloud:
+    config:
+      uri: http://localhost:8090

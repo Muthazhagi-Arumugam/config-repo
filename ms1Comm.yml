@@ -1,6 +1,6 @@
 spring:
   application:
-    name: ms2Comm
+    name: ms1Comm
   cloud:
     config:
       uri: http://localhost:8090
